@@ -7,3 +7,7 @@ Reminders:
     - include add to homescreen button.
     - include "This app works offline!" message when cache is populated
         (https://create-react-app.dev/docs/making-a-progressive-web-app/)
+
+To run in production:
+    npm run build
+    npx server build
