@@ -10,4 +10,16 @@ Reminders:
 
 To run in production:
     npm run build
-    npx server build
+    serve -s build
+
+1) Spash page (while loading PWA)
+2) Menu
+    > "Change Home"
+    > Log In
+3) Home Page
+    > "Find Home"
+    > Menu
+4) Nav Page (API dependant)
+
+
+    
