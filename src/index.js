@@ -6,6 +6,8 @@ import * as serviceWorkerRegistration from './serviceWorkerRegistration';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+// require('dotenv').config({path:".env"})
+
 ReactDOM.render(
   <React.StrictMode>
     <App />

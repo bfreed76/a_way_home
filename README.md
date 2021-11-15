@@ -13,13 +13,13 @@ To run in production:
     serve -s build
 
 1) Spash page (while loading PWA)
-2) Menu
-    > "Change Home"
-    > Log In
-3) Home Page
+2) Home Page
     > "Find Home"
     > Menu
-4) Nav Page (API dependant)
+        >> LogIn/LogOut/SignUp
+        >> Change Home
+3) Nav Page (API dependant)
 
-
+If user is logged in and home is set, map will show custom marker of home for 
+current home. If home is selected, address appears via info window.
     
